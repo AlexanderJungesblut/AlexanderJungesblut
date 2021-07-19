@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlexanderJungesblut
+- 👀 I’m interested in Organizational Psychology, People Analytics, and Text Mining
+- 🌱 I’m currently learning R, HTML, CSS, Java Script
